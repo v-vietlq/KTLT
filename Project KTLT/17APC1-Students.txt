@@ -1,0 +1,10 @@
+1,1751047,Ha Binh,An,Male,1999-10-1
+2,1751048,Khuu Kien,An,Male,1999-7-2
+3,1751049,Dang Le Tuan,Anh,Male,1999-12-19
+4,1751050,Dinh Ho Gia,Bao,Male,1999-3-12
+5,1751051,Le Thanh,Binh,Male,1999-3-24
+6,1751052,Nguyen Quoc,Binh,Male,1999-3-24
+7,1751053,Nguyen Thanh,Binh,Male,1999-3-25
+8,1751054,Long Vu Quynh,Chau,Male,1999-2-4
+9,1751055,Le Anh Bach,Chien,Male,1999-7-2
+10,1751125,Truong Cong,Cuong,Male,1999-3-28

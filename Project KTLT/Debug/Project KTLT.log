@@ -1,0 +1,39 @@
+﻿  main.cpp
+c:\users\vieta\source\repos\project ktlt\project ktlt\header.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\header.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\header.h(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\header.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\header.h(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(250): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(332): warning C4101: 'temp': unreferenced local variable
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(443): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(457): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(477): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(548): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(626): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(704): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(714): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(722): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(736): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(749): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(751): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(766): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(791): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(860): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\class.h(875): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\login.h(14): warning C4101: 'temp': unreferenced local variable
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(320): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(562): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(564): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(623): warning C4018: '<': signed/unsigned mismatch
+c:\users\vieta\source\repos\project ktlt\project ktlt\menu.h(734): warning C4018: '<': signed/unsigned mismatch
+  Project KTLT.vcxproj -> C:\Users\vieta\source\repos\Project KTLT\Debug\Project KTLT.exe

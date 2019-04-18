@@ -1,0 +1,3 @@
+No,Course ID,Course Name,Class,LectureAccount,StartDate,EndDate,Day of week,Start hour,End hour,Room
+1,CTT008,Programming Techniques,18CLC6,lqv,1-1-1,4-4-4,Wednesday,7:30,11:0,B40
+2,CTT010,ABC,18CLC6,pnph,1-1-1,4-4-4,Monday,7:30,11:0,I41

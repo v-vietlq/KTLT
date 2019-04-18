@@ -1,0 +1,10 @@
+1,18125001,Nguyen Van,Anh,Male,2000-4-1
+2,18125002,Phan Thi,Be,Female,2000-5-12
+3,18125003,Nguyen ,Cong,Male,2000-7-13
+4,18125004,Huynh Ngoc,Dung,Female,2000-8-4
+5,18125005,Nguyen Van,Eo,Male,2000-3-24
+6,18125006,Ngo,Pha,Female,2000-4-6
+7,18125007,Nguyen Vang,Giao,Male,2000-4-19
+8,18125008,Nguyen Thi,Quynh,Female,2000-2-8
+9,18125009,Nguyen Van,In,Male,2000-10-9
+10,18125010,Huynh Thi,Nga,Female,2000-12-10
